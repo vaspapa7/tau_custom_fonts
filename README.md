@@ -1,2 +1,2 @@
 # tau_custom_fonts
-Trust and use custom fonts, create from https://icomoon.io
+Trust and use custom fonts, created from https://icomoon.io
