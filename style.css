@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?epc65e');
-  src:  url('fonts/icomoon.eot?epc65e#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?epc65e') format('truetype'),
-    url('fonts/icomoon.woff?epc65e') format('woff'),
-    url('fonts/icomoon.svg?epc65e#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?2hm5im');
+  src:  url('fonts/icomoon.eot?2hm5im#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?2hm5im') format('truetype'),
+    url('fonts/icomoon.woff?2hm5im') format('woff'),
+    url('fonts/icomoon.svg?2hm5im#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-icon_professional:before {
+  content: "\e937";
+}
+.icon-icon_programmer:before {
+  content: "\e93b";
+}
+.icon-icon_blog:before {
+  content: "\e942";
+}
+.icon-icon_career:before {
+  content: "\e944";
+}
 .icon-icon_discover:before {
   content: "\e924";
 }
