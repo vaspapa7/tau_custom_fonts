@@ -1,0 +1,350 @@
+@font-face {
+  font-family: 'TauFonts';
+  src:  url('fonts/TauFonts.eot?11yjex');
+  src:  url('fonts/TauFonts.eot?11yjex#iefix') format('embedded-opentype'),
+    url('fonts/TauFonts.ttf?11yjex') format('truetype'),
+    url('fonts/TauFonts.woff?11yjex') format('woff'),
+    url('fonts/TauFonts.svg?11yjex#TauFonts') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'TauFonts' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-heart:before {
+  content: "\e945";
+}
+.icon-professional:before {
+  content: "\e937";
+}
+.icon-programmer:before {
+  content: "\e93b";
+}
+.icon-blog:before {
+  content: "\e942";
+}
+.icon-career:before {
+  content: "\e944";
+}
+.icon-discover:before {
+  content: "\e924";
+}
+.icon-insert-video:before {
+  content: "\e900";
+}
+.icon-video-play:before {
+  content: "\e902";
+}
+.icon-play:before {
+  content: "\e903";
+}
+.icon-photo:before {
+  content: "\e906";
+}
+.icon-video:before {
+  content: "\e908";
+}
+.icon-album:before {
+  content: "\e907";
+}
+.icon-camera:before {
+  content: "\e930";
+}
+.icon-music:before {
+  content: "\e96e";
+}
+.icon-chart:before {
+  content: "\e901";
+}
+.icon-reviews:before {
+  content: "\e904";
+}
+.icon-all-friends:before {
+  content: "\e905";
+}
+.icon-trusters:before {
+  content: "\e909";
+}
+.icon-friends:before {
+  content: "\e90a";
+}
+.icon-home:before {
+  content: "\e90b";
+}
+.icon-cake:before {
+  content: "\e90c";
+}
+.icon-pen:before {
+  content: "\e90d";
+}
+.icon-lock:before {
+  content: "\e90e";
+}
+.icon-bookmark:before {
+  content: "\e90f";
+}
+.icon-submit:before {
+  content: "\e910";
+}
+.icon-location:before {
+  content: "\e911";
+}
+.icon-smartphone:before {
+  content: "\e912";
+}
+.icon-ticket:before {
+  content: "\e913";
+}
+.icon-question-mark:before {
+  content: "\e914";
+}
+.icon-question-marck-circle:before {
+  content: "\e915";
+}
+.icon-add-box:before {
+  content: "\e916";
+}
+.icon-arrow-up:before {
+  content: "\e917";
+}
+.icon-add-location:before {
+  content: "\e918";
+}
+.icon-arrow-down:before {
+  content: "\e919";
+}
+.icon-close:before {
+  content: "\e91a";
+}
+.icon-checkbox-folse:before {
+  content: "\e91b";
+}
+.icon-checkbox-true:before {
+  content: "\e91c";
+}
+.icon-link:before {
+  content: "\e91d";
+}
+.icon-list:before {
+  content: "\e91e";
+}
+.icon-clock:before {
+  content: "\e91f";
+}
+.icon-community:before {
+  content: "\e920";
+}
+.icon-bag:before {
+  content: "\e921";
+}
+.icon-bag-tau:before {
+  content: "\e922";
+}
+.icon-gear:before {
+  content: "\e923";
+}
+.icon-Ic1:before {
+  content: "\e925";
+}
+.icon-tau-product:before {
+  content: "\e926";
+}
+.icon-tau-new-product:before {
+  content: "\e927";
+}
+.icon-profit:before {
+  content: "\e928";
+}
+.icon-tau-list:before {
+  content: "\e929";
+}
+.icon-tau:before {
+  content: "\e92a";
+}
+.icon-menu-striped:before {
+  content: "\e92b";
+}
+.icon-cogs:before {
+  content: "\e92c";
+}
+.icon-published:before {
+  content: "\e92d";
+}
+.icon-earth2:before {
+  content: "\e92e";
+}
+.icon-earth:before {
+  content: "\e95f";
+}
+.icon-person:before {
+  content: "\e92f";
+}
+.icon-Product-info:before {
+  content: "\e931";
+}
+.icon-spinner:before {
+  content: "\e932";
+}
+.icon-store:before {
+  content: "\e933";
+}
+.icon-info:before {
+  content: "\e934";
+}
+.icon-notification:before {
+  content: "\e935";
+}
+.icon-company:before {
+  content: "\e936";
+}
+.icon-bin:before {
+  content: "\e938";
+}
+.icon-star-full:before {
+  content: "\e939";
+}
+.icon-calendar:before {
+  content: "\e93a";
+}
+.icon-day:before {
+  content: "\e95a";
+}
+.icon-add-trust:before {
+  content: "\e93c";
+}
+.icon-gift:before {
+  content: "\e93d";
+}
+.icon-price-tag:before {
+  content: "\e93e";
+}
+.icon-tau-sales:before {
+  content: "\e93f";
+}
+.icon-menu2:before {
+  content: "\e940";
+}
+.icon-menu:before {
+  content: "\e941";
+}
+.icon-date-of-birth:before {
+  content: "\e943";
+}
+.icon-menu-doted:before {
+  content: "\e948";
+}
+.icon-video-marker:before {
+  content: "\e949";
+}
+.icon-code:before {
+  content: "\e94a";
+}
+.icon-poll:before {
+  content: "\e94b";
+}
+.icon-unboxing:before {
+  content: "\e94c";
+}
+.icon-private:before {
+  content: "\e94d";
+}
+.icon-features:before {
+  content: "\e94e";
+}
+.icon-new-product:before {
+  content: "\e94f";
+}
+.icon-product-simple:before {
+  content: "\e950";
+}
+.icon-percent:before {
+  content: "\e951";
+}
+.icon-offer:before {
+  content: "\e952";
+}
+.icon-coupon:before {
+  content: "\e954";
+}
+.icon-eye:before {
+  content: "\e955";
+}
+.icon-euro:before {
+  content: "\e956";
+}
+.icon-comment:before {
+  content: "\e957";
+}
+.icon-attach:before {
+  content: "\e958";
+}
+.icon-createcompany:before {
+  content: "\e959";
+}
+.icon-description_info:before {
+  content: "\e95b";
+}
+.icon-email:before {
+  content: "\e95c";
+}
+.icon-phone:before {
+  content: "\e95d";
+}
+.icon-time:before {
+  content: "\e95e";
+}
+.icon-art:before {
+  content: "\e960";
+}
+.icon-chain:before {
+  content: "\e963";
+}
+.icon-clothing:before {
+  content: "\e964";
+}
+.icon-company-profile:before {
+  content: "\e968";
+}
+.icon-description:before {
+  content: "\e969";
+}
+.icon-market:before {
+  content: "\e96a";
+}
+.icon-market_teal:before {
+  content: "\e96b";
+}
+.icon-comments:before {
+  content: "\e96c";
+}
+.icon-messages:before {
+  content: "\e96d";
+}
+.icon-notifications:before {
+  content: "\e96f";
+}
+.icon-reply:before {
+  content: "\e975";
+}
+.icon-share:before {
+  content: "\e976";
+}
+.icon-stores_indigo:before {
+  content: "\e977";
+}
+.icon-technology:before {
+  content: "\e978";
+}
