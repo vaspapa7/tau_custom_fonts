@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TauFonts';
-  src:  url('fonts/TauFonts.eot?qipth5');
-  src:  url('fonts/TauFonts.eot?qipth5#iefix') format('embedded-opentype'),
-    url('fonts/TauFonts.ttf?qipth5') format('truetype'),
-    url('fonts/TauFonts.woff?qipth5') format('woff'),
-    url('fonts/TauFonts.svg?qipth5#TauFonts') format('svg');
+  src:  url('fonts/TauFonts.eot?d11ema');
+  src:  url('fonts/TauFonts.eot?d11ema#iefix') format('embedded-opentype'),
+    url('fonts/TauFonts.ttf?d11ema') format('truetype'),
+    url('fonts/TauFonts.woff?d11ema') format('woff'),
+    url('fonts/TauFonts.svg?d11ema#TauFonts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-trust:before {
+  content: "\e947";
+}
 .icon-tau-logo:before {
   content: "\e946";
 }
