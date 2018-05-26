@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TauFonts';
-  src:  url('fonts/TauFonts.eot?d11ema');
-  src:  url('fonts/TauFonts.eot?d11ema#iefix') format('embedded-opentype'),
-    url('fonts/TauFonts.ttf?d11ema') format('truetype'),
-    url('fonts/TauFonts.woff?d11ema') format('woff'),
-    url('fonts/TauFonts.svg?d11ema#TauFonts') format('svg');
+  src:  url('fonts/TauFonts.eot?yc0ua2');
+  src:  url('fonts/TauFonts.eot?yc0ua2#iefix') format('embedded-opentype'),
+    url('fonts/TauFonts.ttf?yc0ua2') format('truetype'),
+    url('fonts/TauFonts.woff?yc0ua2') format('woff'),
+    url('fonts/TauFonts.svg?yc0ua2#TauFonts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-store:before {
+  content: "\e953";
+}
+.icon-market:before {
+  content: "\e961";
+}
+.icon-mall:before {
+  content: "\e962";
+}
+.icon-freelancer:before {
+  content: "\e965";
+}
+.icon-brand:before {
+  content: "\e966";
+}
 .icon-trust:before {
   content: "\e947";
 }
@@ -204,9 +219,6 @@
 .icon-spinner:before {
   content: "\e932";
 }
-.icon-store:before {
-  content: "\e933";
-}
 .icon-info:before {
   content: "\e934";
 }
@@ -327,9 +339,6 @@
 .icon-description:before {
   content: "\e969";
 }
-.icon-market:before {
-  content: "\e96a";
-}
 .icon-market_teal:before {
   content: "\e96b";
 }
@@ -347,9 +356,6 @@
 }
 .icon-share:before {
   content: "\e976";
-}
-.icon-stores_indigo:before {
-  content: "\e977";
 }
 .icon-technology:before {
   content: "\e978";
