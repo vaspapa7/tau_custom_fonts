@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TauFonts';
-  src:  url('fonts/TauFonts.eot?3coxfe');
-  src:  url('fonts/TauFonts.eot?3coxfe#iefix') format('embedded-opentype'),
-    url('fonts/TauFonts.ttf?3coxfe') format('truetype'),
-    url('fonts/TauFonts.woff?3coxfe') format('woff'),
-    url('fonts/TauFonts.svg?3coxfe#TauFonts') format('svg');
+  src:  url('fonts/TauFonts.eot?jx7kuq');
+  src:  url('fonts/TauFonts.eot?jx7kuq#iefix') format('embedded-opentype'),
+    url('fonts/TauFonts.ttf?jx7kuq') format('truetype'),
+    url('fonts/TauFonts.woff?jx7kuq') format('woff'),
+    url('fonts/TauFonts.svg?jx7kuq#TauFonts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,45 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-bank:before {
+  content: "\e97d";
+}
+.icon-build:before {
+  content: "\e97e";
+}
+.icon-care:before {
+  content: "\e97f";
+}
+.icon-contact-phone:before {
+  content: "\e980";
+}
+.icon-car:before {
+  content: "\e981";
+}
+.icon-golf:before {
+  content: "\e982";
+}
+.icon-bar:before {
+  content: "\e983";
+}
+.icon-movies:before {
+  content: "\e984";
+}
+.icon-power:before {
+  content: "\e985";
+}
+.icon-restaurant:before {
+  content: "\e986";
+}
+.icon-school:before {
+  content: "\e987";
+}
+.icon-shopping-basket:before {
+  content: "\e988";
+}
+.icon-spa:before {
+  content: "\e989";
+}
 .icon-mall:before {
   content: "\e962";
 }
