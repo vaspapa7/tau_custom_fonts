@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'TauFonts';
-  src:  url('fonts/TauFonts.eot?v3knjp');
-  src:  url('fonts/TauFonts.eot?v3knjp#iefix') format('embedded-opentype'),
-    url('fonts/TauFonts.ttf?v3knjp') format('truetype'),
-    url('fonts/TauFonts.woff?v3knjp') format('woff'),
-    url('fonts/TauFonts.svg?v3knjp#TauFonts') format('svg');
+  src:  url('fonts/TauFonts.eot?ccdy1a');
+  src:  url('fonts/TauFonts.eot?ccdy1a#iefix') format('embedded-opentype'),
+    url('fonts/TauFonts.ttf?ccdy1a') format('truetype'),
+    url('fonts/TauFonts.woff?ccdy1a') format('woff'),
+    url('fonts/TauFonts.svg?ccdy1a#TauFonts') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-apps:before {
+  content: "\e98b";
+}
+.icon-user-authentication:before {
+  content: "\e98c";
+}
+.icon-schema:before {
+  content: "\e98d";
+}
+.icon-users:before {
+  content: "\e98e";
+}
 .icon-select:before {
   content: "\e98a";
 }
